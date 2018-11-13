@@ -69,3 +69,5 @@ choco install origin -fy
 :: NPM installs
 npm install -g @angular/cli -fy
 npm install -g cordova ionic -fy
+
+:: cannot install office or adobe cc
