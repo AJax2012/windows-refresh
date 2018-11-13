@@ -41,6 +41,8 @@ choco install android-sdk -fy
 :: IDEs and text editors
 choco install vscode -fy
 choco install visualstudio2017-installer -fy
+hoco install resharper-platform -fy
+choco install webstorm -fy
 choco install intellijidea-ultimate -fy
 choco install sublimetext3 -fy
 choco install androidstudio -fy
@@ -48,6 +50,7 @@ choco install brackets -fy
 choco install springtoolsuite -fy
 choco install arduino -fy
 choco install notepadplusplus.install -fy
+choco install jetbrainstoolbox -fy
 
 :: VM tools
 choco install virtualbox -fy
