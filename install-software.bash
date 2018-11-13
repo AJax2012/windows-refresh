@@ -16,7 +16,6 @@ choco install opera -fy
 
 :: Communication tools
 choco install slack -fy
-choco install skype -fy
 choco install discord -fy
 
 :: Testing tools
@@ -40,13 +39,15 @@ choco install jre8 -fy
 choco install android-sdk -fy
 
 :: IDEs and text editors
-choco install intellijidea-ultimate -fy
-choco install visualstudio2017-installer -fy
 choco install vscode -fy
+choco install visualstudio2017-installer -fy
+choco install intellijidea-ultimate -fy
 choco install sublimetext3 -fy
-choco install brackets -fy
 choco install androidstudio -fy
+choco install brackets -fy
 choco install springtoolsuite -fy
+choco install arduino -fy
+choco install notepadplusplus.install -fy
 
 :: VM tools
 choco install virtualbox -fy
@@ -62,6 +63,8 @@ choco install msiafterburner -fy
 :: Entertainment
 choco install gimp -fy
 choco install vlc -fy
+choco install steam -fy
+choco install origin -fy
 
 :: NPM installs
 npm install -g @angular/cli -fy
