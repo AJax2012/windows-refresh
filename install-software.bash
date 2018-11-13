@@ -41,7 +41,7 @@ choco install android-sdk -fy
 :: IDEs and text editors
 choco install vscode -fy
 choco install visualstudio2017-installer -fy
-hoco install resharper-platform -fy
+hoco install resharper-ultimate-all -fy
 choco install webstorm -fy
 choco install intellijidea-ultimate -fy
 choco install sublimetext3 -fy
