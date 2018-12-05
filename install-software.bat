@@ -30,8 +30,6 @@ choco install jre8 -fy
 
 :: IDEs and text editors
 choco install vscode -fy -params '"/PinnedToTaskbar /AddToDesktop"'
-choco install visualstudio2017-installer -fy
-hoco install resharper-ultimate-all -fy
 choco install sublimetext3 -fy
 choco install androidstudio
 choco install brackets -fy
